@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sloop.gank.ImageActivity">
+
+    <com.sloop.gank.view.PinchImageView
+        android:id="@+id/img_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:textColor="#aaffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/img_save"
+        android:layout_margin="20dp"
+        android:background="@drawable/image_bt_save"
+        android:text="@string/save"
+        android:layout_width="56dp"
+        android:layout_height="32dp"/>
+
+</RelativeLayout>

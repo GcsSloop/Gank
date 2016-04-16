@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dea385</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDivider">#ffffff</color>
+    <color name="colorTitle">#aa000000</color>
+    <color name="colorTag">#80000000</color>
+    <color name="colorVia">#80000000</color>
+
+    <color name="colorSaveNormal">#40000000</color>
+    <color name="colorSavePress">#90000000</color>
+</resources>
