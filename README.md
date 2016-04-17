@@ -1,5 +1,6 @@
 # <img src="http://ww4.sinaimg.cn/large/005Xtdi2jw1f2z87fyupqj3074074glu.jpg" width=32 /> Gank
-### —— 有史以来最简单(_偷懒_)的干货客户端.
+
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f2ztnuj83bj30rs0i5tbo.jpg)
 
 ## 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
