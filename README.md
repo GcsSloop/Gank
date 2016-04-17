@@ -19,6 +19,10 @@
 
 ## 下载应用：
 
+<img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f306z4hhcwj30b40b4ab5.jpg" width=240 />
+
+[**【扫描二维码或点击这里获取应用】**](http://fir.im/GankByGcsSloop)
+
 ## 设计理念：
 
 ## 特别鸣谢：
