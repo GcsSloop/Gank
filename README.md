@@ -15,7 +15,7 @@
   
 ## 界面预览：
 
-![](http://ww1.sinaimg.cn/large/005Xtdi2gw1f303u1css4j30sg0lc0z9.jpg)
+![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f304pnc0h5j30sg0lcn3p.jpg)
 
 ## 下载应用：
 
