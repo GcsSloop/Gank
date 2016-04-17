@@ -1,8 +1,8 @@
 # <img src="http://ww4.sinaimg.cn/large/005Xtdi2jw1f2z87fyupqj3074074glu.jpg" width=32 /> Gank
 
-![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f2ztnuj83bj30rs0i5tbo.jpg)
+**干货集中营Android客户端！**
 
-## 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f2ztnuj83bj30rs0i5tbo.jpg)
 
 ******
 
@@ -27,6 +27,7 @@
 ******
 
 ## About Me
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
 <a href="https://github.com/GcsSloop/SloopBlog/blob/master/FINDME.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
 
