@@ -35,6 +35,12 @@
 
 ## 特别鸣谢：
 
+* [@代码家](https://github.com/daimajia)
+* [@Mr.Simple](http://blog.csdn.net/bboyfeiyu/article/details/39935329)
+* [#Retrofit](https://github.com/square/retrofit)
+* [#ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
+* [#Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [众多的开源党]()
 
 ******
 
