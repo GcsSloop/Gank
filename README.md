@@ -38,6 +38,14 @@
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [科学上网](https://github.com/GcsSloop/Note/blob/master/GFW/README.md)
 
+## 开发计划：
+ 基于用户的反馈，修复完善或者添加一下功能(欢迎在Issues反馈)：
+ 
+ 序号 | 内容
+ -----| ---
+  01  | 完善妹子页面图片加载缓存问题
+  02  | 添加左右滑动切换妹子图片功能
+  03  | 缓存WebView，提供离线阅读
 
 ## 特别鸣谢：
 
