@@ -39,7 +39,7 @@
 * [科学上网](https://github.com/GcsSloop/Note/blob/master/GFW/README.md)
 
 ## 开发计划：
- 基于用户的反馈，修复完善或者添加一下功能(欢迎在Issues反馈)：
+ 基于用户的反馈，修复完善或者添加以下功能(欢迎在Issues反馈)：
  
  序号 | 内容
  -----| ---
